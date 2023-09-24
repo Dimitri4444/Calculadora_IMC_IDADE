@@ -1,0 +1,15 @@
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\bin\Debug\net7.0\Calc. IMC e Idade.exe
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\bin\Debug\net7.0\Calc. IMC e Idade.deps.json
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\bin\Debug\net7.0\Calc. IMC e Idade.runtimeconfig.json
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\bin\Debug\net7.0\Calc. IMC e Idade.dll
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\bin\Debug\net7.0\Calc. IMC e Idade.pdb
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.csproj.AssemblyReference.cache
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.AssemblyInfoInputs.cache
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.AssemblyInfo.cs
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.csproj.CoreCompileInputs.cache
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.dll
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\refint\Calc. IMC e Idade.dll
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.pdb
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\Calc. IMC e Idade.genruntimeconfig.cache
+C:\Users\perso\OneDrive\Área de Trabalho\Calc. IMC e Idade\obj\Debug\net7.0\ref\Calc. IMC e Idade.dll
